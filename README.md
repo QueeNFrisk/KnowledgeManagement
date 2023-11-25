@@ -57,7 +57,7 @@ The pre-configured KM security profiles are succinctly outlined in the following
 
 ## Knowledge Management Process Overview
 ![enter image description here](https://github.com/QueeNFrisk/KnowledgeManagement/blob/master/contribute_and_approve_km_doc_st7.0.png?raw=true)
-### # Knowledge Management User Roles
+### Knowledge Management User Roles
 The following table describes the responsibilities of the Knowledge Management roles.
 
 **Knowledge Management Process Owner**:
