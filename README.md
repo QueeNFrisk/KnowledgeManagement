@@ -53,8 +53,7 @@ The pre-configured KM security profiles are succinctly outlined in the following
 | KCS EDITOR | Create and edit knowledge documents authored by the editor in the workflow, specifically within the categories accessible through this profile. |
 | KCS II | Create knowledge documents, contribute to knowledge documents, edit published documents without initiating workflow (edit in place), and internally publish documents. Additionally, view adaptive learning data when the adaptive learning feature is activated in the system. |
 | KCS III | Create knowledge documents, contribute to knowledge documents, edit published documents without initiating workflow (edit in place), and publish documents both internally and externally. Additionally, access adaptive learning data when the adaptive learning feature is active in the system. |
-| KM ADMIN |   
-Create knowledge documents, contribute to knowledge documents, edit published documents directly without initiating workflow (edit in place), and publish documents for both internal and external use. Additionally, access adaptive learning data when the adaptive learning feature is activated in the system. |
+| KM ADMIN | Create knowledge documents, contribute to knowledge documents, edit published documents directly without initiating workflow (edit in place), and publish documents for both internal and external use. Additionally, access adaptive learning data when the adaptive learning feature is activated in the system. |
 
 ## Knowledge Management Process Overview
 ![enter image description here](https://github.com/QueeNFrisk/KnowledgeManagement/blob/master/contribute_and_approve_km_doc_st7.0.png?raw=true)
